@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="smeshariki/smeshariki.vcxproj" Id="c6df0954-1e81-465e-97e2-ea4a3222a5ef" />
+</Solution>
